@@ -1,0 +1,12 @@
+specVersion: "v1"
+serviceId: "Fake-Store-App"
+location: "us-west1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "fake-store-app-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

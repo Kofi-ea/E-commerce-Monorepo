@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "da4b",
+      "title": "Cargo Pants",
+      "price": "$35",
+      "description": "lorem ipsum",
+      "category": "men's clothing",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fake-store-logs.firebasestorage.app/o/products%2F1745547693949_images.jfif?alt=media&token=fd9c87c8-ea09-4e71-b596-60dbe9fce014",
+      "vendorId": "H117URvTFuOLkw1P3gd5Bs7EkSw1"
+    },
+    {
+      "id": "5702",
+      "title": "PlayStation 5",
+      "price": "$230",
+      "description": "Still very neat and not purchased long ago.",
+      "category": "electronics",
+      "image": "https://firebasestorage.googleapis.com/v0/b/fake-store-logs.firebasestorage.app/o/products%2F1745549268362_ps5.jfif?alt=media&token=569078c0-f781-4d88-8a41-c43666345b7a",
+      "vendorId": "H117URvTFuOLkw1P3gd5Bs7EkSw1"
+    }
+  ]
+}
